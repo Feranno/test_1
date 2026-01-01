@@ -143,6 +143,14 @@ The pattern continues: build it small, understand the constraints, then scale up
 
 ---
 
+## The Final Build
+
+![8-bit breadboard computer](images/breadboard-computer.jpg)
+
+*The completed 8-bit computer showing ~200 hand-wired connections, logic gates, LEDs, and 7-segment displays. The display shows "055" - output from a running Fibonacci sequence program.*
+
+---
+
 ## Technical Specifications
 
 ### Hardware components
