@@ -1,4 +1,5 @@
 # Building an 8-Bit Computer From Scratch
+(conditional_jump_program.mp4)
 
 I spent 6 hours debugging a computer I built from scratch, only to discover the problem was one loose wire.
 
