@@ -1,5 +1,5 @@
 # Building an 8-Bit Computer From Scratch
-![8-bit breadboard computer program](conditional_jump_program.mp4)
+![8-bit breadboard computer program](https://github.com/Feranno/test_1/blob/claude/document-capabilities-uZaCZ/conditional_jump_program.mp4)
 
 I spent 6 hours debugging a computer I built from scratch, only to discover the problem was one loose wire.
 
